@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/KittyPlaneDetection.unity
+    guid: 154d0b17926541b4d893a1e063d2225a
+  - enabled: 0
+    path: Assets/Scenes/3DMeshing.unity
+    guid: c5f9e60feeec8cc46907d5d20bd6e39d
